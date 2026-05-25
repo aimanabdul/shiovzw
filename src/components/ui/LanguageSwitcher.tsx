@@ -8,7 +8,7 @@ const localeNames: Record<string, { name: string; flag: string }> = {
   nl: { name: "NL", flag: "🇧🇪" },
   en: { name: "EN", flag: "🇬🇧" },
   fr: { name: "FR", flag: "🇫🇷" },
-  ar: { name: "عر", flag: "🌙" },
+  ar: { name: "العربيه", flag: "🌙" },
 };
 
 export default function LanguageSwitcher() {
