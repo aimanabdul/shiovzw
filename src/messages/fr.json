@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "uitvaartfonds": "Fonds Funéraire",
+    "donate": "Faire un Don",
+    "achievements": "Nos Réalisations",
+    "events": "Événements",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Organisation Internationale Haoussa du Soudan",
+    "subtitle": "Ensemble, nous construisons un avenir meilleur pour le Soudan et le Tchad grâce à des projets humanitaires et au développement communautaire.",
+    "cta_donate": "Faire un Don",
+    "cta_projects": "Nos Projets"
+  },
+  "about": {
+    "title": "À Propos de SHIO VZW",
+    "subtitle": "Qui nous sommes",
+    "description": "SHIO VZW (Organisation Internationale Haoussa du Soudan) est une organisation à but non lucratif belge basée à Turnhout. Nous finançons des projets humanitaires et de développement au Soudan et au Tchad, dans le but d'améliorer la vie des communautés vulnérables. Notre organisation relie la communauté haoussa belge à ses racines et mobilise des ressources pour un impact significatif."
+  },
+  "projects": {
+    "title": "Nos Réalisations",
+    "subtitle": "Ce que nous avons accompli",
+    "view_all": "Voir Tout"
+  },
+  "events": {
+    "title": "Événements"
+  },
+  "donate": {
+    "title": "Soutenez-Nous",
+    "description": "Votre don fait la différence. Chaque contribution nous aide à financer des projets humanitaires au Soudan et au Tchad.",
+    "bank_name": "Coordonnées Bancaires",
+    "bank_account": "BE26 0882 8844 2629",
+    "cta": "Faire un Don"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Prenez contact avec nous",
+    "email_label": "E-mail",
+    "phone_label": "Téléphone",
+    "address_label": "Adresse",
+    "follow_us": "Suivez-nous",
+    "form_name": "Votre nom",
+    "form_email": "Votre e-mail",
+    "form_message": "Votre message",
+    "form_submit": "Envoyer",
+    "form_success": "Votre message a été envoyé avec succès!",
+    "form_error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "achievements": {
+    "title": "Nos Réalisations",
+    "subtitle": "Projets qui font la différence",
+    "all_title": "Tous les Projets",
+    "read_more": "Lire la suite",
+    "gallery": "Galerie",
+    "back": "Retour",
+    "tags": "Tags"
+  },
+  "admin": {
+    "login_title": "Connexion Admin",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "sign_in": "Se connecter",
+    "dashboard_title": "Tableau de bord",
+    "add_new": "Ajouter",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirm_delete": "Êtes-vous sûr de vouloir supprimer ceci?",
+    "title_field": "Titre",
+    "tags_field": "Tags (séparés par des virgules)",
+    "description_field": "Description",
+    "cover_image": "Image de couverture",
+    "gallery_images": "Images de galerie",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  }
+}

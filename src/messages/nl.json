@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "uitvaartfonds": "Uitvaartfonds",
+    "donate": "Doneren",
+    "achievements": "Onze Prestaties",
+    "events": "Evenementen",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Sudanese Hausa International Organization",
+    "subtitle": "Samen bouwen we een betere toekomst voor Sudan en Tsjaad door humanitaire projecten en gemeenschapsontwikkeling.",
+    "cta_donate": "Doneer Nu",
+    "cta_projects": "Onze Projecten"
+  },
+  "about": {
+    "title": "Over SHIO VZW",
+    "subtitle": "Wie we zijn",
+    "description": "SHIO VZW (Sudanese Hausa International Organization) is een Belgische non-profitorganisatie gevestigd in Turnhout. Wij financieren humanitaire en ontwikkelingsprojecten in Sudan en Tsjaad, met als doel het leven van kwetsbare gemeenschappen te verbeteren. Onze organisatie verbindt de Belgische Hausa-gemeenschap met hun roots en mobiliseert middelen voor betekenisvolle impact."
+  },
+  "projects": {
+    "title": "Onze Prestaties",
+    "subtitle": "Wat we hebben bereikt",
+    "view_all": "Bekijk Alles"
+  },
+  "events": {
+    "title": "Evenementen"
+  },
+  "donate": {
+    "title": "Steun Ons",
+    "description": "Uw donatie maakt een verschil. Elke bijdrage helpt ons humanitaire projecten te financieren in Sudan en Tsjaad.",
+    "bank_name": "Bankrekeninggegevens",
+    "bank_account": "BE26 0882 8844 2629",
+    "cta": "Doneer Nu"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact met ons op",
+    "email_label": "E-mail",
+    "phone_label": "Telefoon",
+    "address_label": "Adres",
+    "follow_us": "Volg ons",
+    "form_name": "Uw naam",
+    "form_email": "Uw e-mailadres",
+    "form_message": "Uw bericht",
+    "form_submit": "Verstuur",
+    "form_success": "Uw bericht is succesvol verzonden!",
+    "form_error": "Er is een fout opgetreden. Probeer het opnieuw."
+  },
+  "achievements": {
+    "title": "Onze Prestaties",
+    "subtitle": "Projecten die een verschil maken",
+    "all_title": "Alle Projecten",
+    "read_more": "Lees meer",
+    "gallery": "Galerij",
+    "back": "Terug",
+    "tags": "Tags"
+  },
+  "admin": {
+    "login_title": "Admin Inloggen",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "sign_in": "Inloggen",
+    "dashboard_title": "Dashboard",
+    "add_new": "Nieuw Toevoegen",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "confirm_delete": "Weet u zeker dat u dit wilt verwijderen?",
+    "title_field": "Titel",
+    "tags_field": "Tags (komma gescheiden)",
+    "description_field": "Beschrijving",
+    "cover_image": "Omslagafbeelding",
+    "gallery_images": "Galerij Afbeeldingen",
+    "save": "Opslaan",
+    "cancel": "Annuleren"
+  }
+}

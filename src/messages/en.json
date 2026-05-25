@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "uitvaartfonds": "Funeral Fund",
+    "donate": "Donate",
+    "achievements": "Our Achievements",
+    "events": "Events",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Sudanese Hausa International Organization",
+    "subtitle": "Together we build a better future for Sudan and Chad through humanitarian projects and community development.",
+    "cta_donate": "Donate Now",
+    "cta_projects": "Our Projects"
+  },
+  "about": {
+    "title": "About SHIO VZW",
+    "subtitle": "Who we are",
+    "description": "SHIO VZW (Sudanese Hausa International Organization) is a Belgian non-profit organization based in Turnhout. We finance humanitarian and development projects in Sudan and Chad, aiming to improve the lives of vulnerable communities. Our organization connects the Belgian Hausa community with their roots and mobilizes resources for meaningful impact."
+  },
+  "projects": {
+    "title": "Our Achievements",
+    "subtitle": "What we have accomplished",
+    "view_all": "View All"
+  },
+  "events": {
+    "title": "Events"
+  },
+  "donate": {
+    "title": "Support Us",
+    "description": "Your donation makes a difference. Every contribution helps us finance humanitarian projects in Sudan and Chad.",
+    "bank_name": "Bank Account Details",
+    "bank_account": "BE26 0882 8844 2629",
+    "cta": "Donate Now"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "address_label": "Address",
+    "follow_us": "Follow us",
+    "form_name": "Your name",
+    "form_email": "Your email",
+    "form_message": "Your message",
+    "form_submit": "Send",
+    "form_success": "Your message has been sent successfully!",
+    "form_error": "An error occurred. Please try again."
+  },
+  "achievements": {
+    "title": "Our Achievements",
+    "subtitle": "Projects that make a difference",
+    "all_title": "All Projects",
+    "read_more": "Read more",
+    "gallery": "Gallery",
+    "back": "Back",
+    "tags": "Tags"
+  },
+  "admin": {
+    "login_title": "Admin Login",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "dashboard_title": "Dashboard",
+    "add_new": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm_delete": "Are you sure you want to delete this?",
+    "title_field": "Title",
+    "tags_field": "Tags (comma separated)",
+    "description_field": "Description",
+    "cover_image": "Cover Image",
+    "gallery_images": "Gallery Images",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
